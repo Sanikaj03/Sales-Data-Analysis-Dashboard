@@ -52,10 +52,13 @@ Step10: A pie chart and donut chart was added to show the Sum of Sales based on 
 ![overall sales](https://github.com/Sanikaj03/Sales-Data-Analysis-Dashboard/assets/125180335/3e8a0030-cbe8-48d8-b841-b3c58f14b13c)
 
 Insights:
-Sales in 4 year: $12.64M
-Quantity: 178k
-Avg. Delivery Days: 4
-No. of Returned Orders: 1097
+Sales in 4 year: $12.64M,
+
+Quantity: 178k,
+
+Avg. Delivery Days: 4,
+
+No. of Returned Orders: 1097,
 
 ## Snap of Sales in each year:
 
